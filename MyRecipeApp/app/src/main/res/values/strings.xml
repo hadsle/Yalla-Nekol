@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YALLA NEKOL</string>
+    <string name="title_add">Add Recipe</string>
+    <string name="title_show">Show Recipe</string>
+    <string name="title_profile">Profile</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="recipe_description">Recipe Description</string>
+    <string name="recipe_category">Recipe Category</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="save_recipe">Save Recipe</string>
+
+
+</resources>
